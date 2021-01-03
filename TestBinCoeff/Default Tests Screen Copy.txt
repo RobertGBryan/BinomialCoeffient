@@ -1,0 +1,13 @@
+Start time is 12/26/2020 6:25:27 PM.
+TestRankCombos: 32-bit, 64-bit, and big integer tests completed successfully.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TestSubCases: completed successfully.
+TestTableData: completed successfully.
+VerifyPascalsTriangle: completed successfully.
+Test13Choose5: completed successfully.
+Test50Choose25: completed successfully.
+TestLeastTypeForCase: completed successfully.
+TestGetLeastTypeForAllSubtypes: completed successfully.
+End time is 12/26/2020 6:25:55 PM.
+
+Press any key to exit.

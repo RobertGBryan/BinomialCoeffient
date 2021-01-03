@@ -1,0 +1,110 @@
+Benchmark Results For 32-bit uint Pascal's Triangle Library Methods .VS. Math Methods:
+
+n = 13, k = 5, avg const ticks = 5, avg combo ticks = 1, avg combo2 ticks = 5, avg alt combo ticks = 2
+n = 13, k = 5, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 3, avg alt combo ticks = 8
+
+n = 100, k = 6, avg const ticks = 15, avg combo ticks = 1, avg combo2 ticks = 14, avg alt combo ticks = 2
+n = 100, k = 6, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 4, avg alt combo ticks = 18
+
+n = 25, k = 12, avg const ticks = 10, avg combo ticks = 1, avg combo2 ticks = 10, avg alt combo ticks = 3
+n = 25, k = 12, avg rank ticks = 2, avg alt rank ticks = 9, avg combo ticks = 6, avg alt combo ticks = 36
+
+n = 52, k = 7, avg const ticks = 12, avg combo ticks = 1, avg combo2 ticks = 11, avg alt combo ticks = 2
+n = 52, k = 7, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 4, avg alt combo ticks = 19
+
+n = 30, k = 26, avg const ticks = 19, avg combo ticks = 1, avg combo2 ticks = 18, avg alt combo ticks = 2
+n = 30, k = 26, avg rank ticks = 2, avg alt rank ticks = 5, avg combo ticks = 9, avg alt combo ticks = 17
+
+n = 34, k = 17, avg const ticks = 16, avg combo ticks = 1, avg combo2 ticks = 16, avg alt combo ticks = 4
+n = 34, k = 17, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 2, avg alt combo ticks = 9
+
+n = 20, k = 10, avg const ticks = 8, avg combo ticks = 1, avg combo2 ticks = 8, avg alt combo ticks = 2
+n = 20, k = 10, avg rank ticks = 2, avg alt rank ticks = 2, avg combo ticks = 2, avg alt combo ticks = 4
+
+Overall Pascal's Triangle # of combos performance ratio = 2.73 to 1.
+Overall Pascal's GetRank performance ratio = 3.11 to 1.
+Overall Pascal's GetCombo performance ratio = 3.98 to 1.
+
+Multiple methods benchmark for 13 choose 5 & subcases .vs. Combination class ratio = 4.24 to 1.
+Multiple methods benchmark for 100 choose 6 & subcases .vs. Combination class ratio = 5.15 to 1.
+Multiple methods benchmark for 25 choose 12 & subcases .vs. Combination class ratio = 8.05 to 1.
+Multiple methods benchmark for 52 choose 7 & subcases .vs. Combination class ratio = 5.53 to 1.
+Multiple methods benchmark for 30 choose 26 & subcases .vs. Combination class ratio = 7.67 to 1.
+Multiple methods benchmark for 34 choose 17 & subcases .vs. Combination class ratio = 11.42 to 1.
+Multiple methods benchmark for 20 choose 10 & subcases .vs. Combination class ratio = 5.84 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 8.24 to 1.
+
+Benchmark Results For 64-bit ulong Pascal's Triangle Library Methods .VS. Math Methods:
+
+n = 100, k = 12, avg const ticks = 63, avg combo ticks = 1, avg combo2 ticks = 62, avg alt combo ticks = 4
+n = 100, k = 12, avg rank ticks = 2, avg alt rank ticks = 12, avg combo ticks = 8, avg alt combo ticks = 73
+
+n = 200, k = 10, avg const ticks = 99, avg combo ticks = 1, avg combo2 ticks = 98, avg alt combo ticks = 3
+n = 200, k = 10, avg rank ticks = 2, avg alt rank ticks = 9, avg combo ticks = 7, avg alt combo ticks = 65
+
+n = 52, k = 7, avg const ticks = 19, avg combo ticks = 1, avg combo2 ticks = 19, avg alt combo ticks = 2
+n = 52, k = 7, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 5, avg alt combo ticks = 19
+
+n = 71, k = 21, avg const ticks = 75, avg combo ticks = 1, avg combo2 ticks = 75, avg alt combo ticks = 5
+n = 71, k = 21, avg rank ticks = 3, avg alt rank ticks = 36, avg combo ticks = 12, avg alt combo ticks = 219
+
+n = 60, k = 40, avg const ticks = 102, avg combo ticks = 1, avg combo2 ticks = 101, avg alt combo ticks = 5
+n = 60, k = 40, avg rank ticks = 5, avg alt rank ticks = 65, avg combo ticks = 21, avg alt combo ticks = 301
+
+n = 75, k = 20, avg const ticks = 78, avg combo ticks = 1, avg combo2 ticks = 77, avg alt combo ticks = 5
+n = 75, k = 20, avg rank ticks = 3, avg alt rank ticks = 35, avg combo ticks = 12, avg alt combo ticks = 203
+
+n = 56, k = 28, avg const ticks = 73, avg combo ticks = 1, avg combo2 ticks = 73, avg alt combo ticks = 7
+n = 56, k = 28, avg rank ticks = 4, avg alt rank ticks = 7, avg combo ticks = 3, avg alt combo ticks = 18
+
+Overall Pascal's Triangle # of combos performance ratio = 5.4 to 1.
+Overall Pascal's Triangle GetRank performance ratio = 9.66 to 1.
+Overall Pascal's Triangle GetCombo performance ratio = 13.61 to 1.
+
+Multiple methods benchmark for 100 choose 12 & subcases .vs. Combination class ratio = 8.77 to 1.
+Multiple methods benchmark for 200 choose 10 & subcases .vs. Combination class ratio = 7.95 to 1.
+Multiple methods benchmark for 52 choose 7 & subcases .vs. Combination class ratio = 4.49 to 1.
+Multiple methods benchmark for 71 choose 21 & subcases .vs. Combination class ratio = 15.07 to 1.
+Multiple methods benchmark for 60 choose 40 & subcases .vs. Combination class ratio = 18.83 to 1.
+Multiple methods benchmark for 75 choose 20 & subcases .vs. Combination class ratio = 14.62 to 1.
+Multiple methods benchmark for 56 choose 28 & subcases .vs. Combination class ratio = 17.1 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 16.54 to 1.
+
+Benchmark Results For Big Integer Pascal's Triangle Library Methods .VS. Math Methods:
+
+n = 100, k = 50, avg const ticks = 2835, avg combo ticks = 3, avg combo2 ticks = 2746, avg alt combo ticks = 791
+n = 100, k = 50, avg rank ticks = 9, avg alt rank ticks = 572, avg combo ticks = 8, avg alt combo ticks = 414
+
+n = 100, k = 82, avg const ticks = 3669, avg combo ticks = 3, avg combo2 ticks = 3663, avg alt combo ticks = 564
+n = 100, k = 82, avg rank ticks = 68, avg alt rank ticks = 577, avg combo ticks = 144, avg alt combo ticks = 3452
+
+n = 200, k = 50, avg const ticks = 7283, avg combo ticks = 3, avg combo2 ticks = 7273, avg alt combo ticks = 573
+n = 200, k = 50, avg rank ticks = 48, avg alt rank ticks = 597, avg combo ticks = 132, avg alt combo ticks = 17265
+
+n = 125, k = 67, avg const ticks = 4904, avg combo ticks = 3, avg combo2 ticks = 4892, avg alt combo ticks = 565
+n = 125, k = 67, avg rank ticks = 64, avg alt rank ticks = 740, avg combo ticks = 164, avg alt combo ticks = 21157
+
+n = 150, k = 75, avg const ticks = 7222, avg combo ticks = 3, avg combo2 ticks = 7068, avg alt combo ticks = 585
+n = 150, k = 75, avg rank ticks = 13, avg alt rank ticks = 605, avg combo ticks = 9, avg alt combo ticks = 924
+
+n = 185, k = 40, avg const ticks = 5356, avg combo ticks = 3, avg combo2 ticks = 5330, avg alt combo ticks = 532
+n = 185, k = 40, avg rank ticks = 40, avg alt rank ticks = 631, avg combo ticks = 102, avg alt combo ticks = 10289
+
+n = 200, k = 100, avg const ticks = 14243, avg combo ticks = 3, avg combo2 ticks = 14146, avg alt combo ticks = 704
+n = 200, k = 100, avg rank ticks = 18, avg alt rank ticks = 632, avg combo ticks = 10, avg alt combo ticks = 1311
+
+Overall Pascal's Triangle # of combos performance ratio = 240.07 to 1.
+Overall Pascal's GetRank performance ratio = 16.91 to 1.
+Overall Pascal's GetCombo performance ratio = 96.64 to 1.
+
+Multiple methods benchmark for 100 choose 50 & subcases .vs. Combination class ratio = 7.04 to 1.
+Multiple methods benchmark for 100 choose 82 & subcases .vs. Combination class ratio = 4.49 to 1.
+Multiple methods benchmark for 200 choose 50 & subcases .vs. Combination class ratio = 11.42 to 1.
+Multiple methods benchmark for 125 choose 67 & subcases .vs. Combination class ratio = 8.11 to 1.
+Multiple methods benchmark for 150 choose 75 & subcases .vs. Combination class ratio = 9.6 to 1.
+Multiple methods benchmark for 185 choose 40 & subcases .vs. Combination class ratio = 9.96 to 1.
+Multiple methods benchmark for 200 choose 100 & subcases .vs. Combination class ratio = 13.18 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 9.65 to 1.
+
+
+Press any key to exit.

@@ -1,0 +1,35 @@
+Benchmark Results For 32-bit uint Pascal's Triangle Library Methods .VS. Math Methods:
+
+Multiple methods benchmark for 40 choose 10 & subcases .vs. Combination class ratio = 3.26 to 1.
+Multiple methods benchmark for 100 choose 6 & subcases .vs. Combination class ratio = 8.06 to 1.
+Multiple methods benchmark for 25 choose 12 & subcases .vs. Combination class ratio = 8.31 to 1.
+Multiple methods benchmark for 52 choose 7 & subcases .vs. Combination class ratio = 7.3 to 1.
+Multiple methods benchmark for 30 choose 26 & subcases .vs. Combination class ratio = 7.66 to 1.
+Multiple methods benchmark for 34 choose 17 & subcases .vs. Combination class ratio = 11.17 to 1.
+Multiple methods benchmark for 20 choose 10 & subcases .vs. Combination class ratio = 6.77 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 7.43 to 1.
+
+Benchmark Results For 64-bit ulong Pascal's Triangle Library Methods .VS. Math Methods:
+
+Multiple methods benchmark for 100 choose 12 & subcases .vs. Combination class ratio = 5.31 to 1.
+Multiple methods benchmark for 200 choose 10 & subcases .vs. Combination class ratio = 9.34 to 1.
+Multiple methods benchmark for 65 choose 28 & subcases .vs. Combination class ratio = 14.3 to 1.
+Multiple methods benchmark for 71 choose 21 & subcases .vs. Combination class ratio = 16.68 to 1.
+Multiple methods benchmark for 60 choose 40 & subcases .vs. Combination class ratio = 19.29 to 1.
+Multiple methods benchmark for 75 choose 20 & subcases .vs. Combination class ratio = 14.65 to 1.
+Multiple methods benchmark for 56 choose 28 & subcases .vs. Combination class ratio = 17.73 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 16.38 to 1.
+
+Benchmark Results For Big Integer Pascal's Triangle Library Methods .VS. Math Methods:
+
+Multiple methods benchmark for 100 choose 50 & subcases .vs. Combination class ratio = 6.74 to 1.
+Multiple methods benchmark for 100 choose 82 & subcases .vs. Combination class ratio = 4.56 to 1.
+Multiple methods benchmark for 200 choose 50 & subcases .vs. Combination class ratio = 11.62 to 1.
+Multiple methods benchmark for 125 choose 67 & subcases .vs. Combination class ratio = 8.22 to 1.
+Multiple methods benchmark for 150 choose 75 & subcases .vs. Combination class ratio = 9.62 to 1.
+Multiple methods benchmark for 185 choose 40 & subcases .vs. Combination class ratio = 10.54 to 1.
+Multiple methods benchmark for 200 choose 100 & subcases .vs. Combination class ratio = 12.94 to 1.
+Average for all n choose k cases & subcases .vs. Combination class ratio = 9.62 to 1.
+
+
+Press any key to exit.

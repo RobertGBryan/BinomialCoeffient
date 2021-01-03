@@ -1,0 +1,77 @@
+n = 13, k = 5, avg const ticks = 4, avg combo ticks = 1, avg combo2 ticks = 4, avg alt combo ticks = 2
+n = 13, k = 5, avg rank ticks = 1, avg alt rank ticks = 3, avg combo ticks = 3, avg alt combo ticks = 8
+
+n = 100, k = 6, avg const ticks = 14, avg combo ticks = 1, avg combo2 ticks = 14, avg alt combo ticks = 2
+n = 100, k = 6, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 4, avg alt combo ticks = 18
+
+n = 100, k = 98, avg const ticks = 151, avg combo ticks = 1, avg combo2 ticks = 147, avg alt combo ticks = 2
+n = 100, k = 98, avg rank ticks = 6, avg alt rank ticks = 4, avg combo ticks = 18, avg alt combo ticks = 21
+
+n = 52, k = 7, avg const ticks = 11, avg combo ticks = 1, avg combo2 ticks = 11, avg alt combo ticks = 2
+n = 52, k = 7, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 4, avg alt combo ticks = 19
+
+n = 100, k = 2, avg const ticks = 4, avg combo ticks = 1, avg combo2 ticks = 3, avg alt combo ticks = 2
+n = 100, k = 2, avg rank ticks = 1, avg alt rank ticks = 2, avg combo ticks = 3, avg alt combo ticks = 5
+
+n = 34, k = 17, avg const ticks = 17, avg combo ticks = 1, avg combo2 ticks = 16, avg alt combo ticks = 4
+n = 34, k = 17, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 3, avg alt combo ticks = 9
+
+n = 20, k = 10, avg const ticks = 8, avg combo ticks = 1, avg combo2 ticks = 7, avg alt combo ticks = 2
+n = 20, k = 10, avg rank ticks = 2, avg alt rank ticks = 3, avg combo ticks = 3, avg alt combo ticks = 5
+
+Overall Pascal's Triangle # of combos performance ratio = 2.49 to 1.
+Overall Pascal's GetRank performance ratio = 1.73 to 1.
+Overall Pascal's GetCombo performance ratio = 2.36 to 1.
+
+n = 100, k = 12, avg const ticks = 64, avg combo ticks = 1, avg combo2 ticks = 63, avg alt combo ticks = 4
+n = 100, k = 12, avg rank ticks = 2, avg alt rank ticks = 12, avg combo ticks = 8, avg alt combo ticks = 74
+
+n = 200, k = 10, avg const ticks = 96, avg combo ticks = 1, avg combo2 ticks = 97, avg alt combo ticks = 4
+n = 200, k = 10, avg rank ticks = 2, avg alt rank ticks = 9, avg combo ticks = 7, avg alt combo ticks = 65
+
+n = 52, k = 7, avg const ticks = 19, avg combo ticks = 1, avg combo2 ticks = 18, avg alt combo ticks = 3
+n = 52, k = 7, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 5, avg alt combo ticks = 19
+
+n = 71, k = 21, avg const ticks = 75, avg combo ticks = 1, avg combo2 ticks = 74, avg alt combo ticks = 6
+n = 71, k = 21, avg rank ticks = 3, avg alt rank ticks = 36, avg combo ticks = 12, avg alt combo ticks = 214
+
+n = 60, k = 30, avg const ticks = 82, avg combo ticks = 1, avg combo2 ticks = 81, avg alt combo ticks = 8
+n = 60, k = 30, avg rank ticks = 4, avg alt rank ticks = 7, avg combo ticks = 3, avg alt combo ticks = 25
+
+n = 75, k = 20, avg const ticks = 76, avg combo ticks = 1, avg combo2 ticks = 75, avg alt combo ticks = 5
+n = 75, k = 20, avg rank ticks = 3, avg alt rank ticks = 34, avg combo ticks = 11, avg alt combo ticks = 199
+
+n = 100000, k = 3, avg const ticks = 13170, avg combo ticks = 2, avg combo2 ticks = 13210, avg alt combo ticks = 5
+n = 100000, k = 3, avg rank ticks = 2, avg alt rank ticks = 4, avg combo ticks = 11, avg alt combo ticks = 20
+
+Overall Pascal's Triangle # of combos performance ratio = 4.79 to 1.
+Overall Pascal's GetRank performance ratio = 6.86 to 1.
+Overall Pascal's GetCombo performance ratio = 11.41 to 1.
+
+n = 100, k = 50, avg const ticks = 2955, avg combo ticks = 3, avg combo2 ticks = 2918, avg alt combo ticks = 811
+n = 100, k = 50, avg rank ticks = 10, avg alt rank ticks = 578, avg combo ticks = 9, avg alt combo ticks = 414
+
+n = 100, k = 82, avg const ticks = 3673, avg combo ticks = 3, avg combo2 ticks = 3664, avg alt combo ticks = 541
+n = 100, k = 82, avg rank ticks = 66, avg alt rank ticks = 606, avg combo ticks = 149, avg alt combo ticks = 3456
+
+n = 200, k = 50, avg const ticks = 7674, avg combo ticks = 3, avg combo2 ticks = 7856, avg alt combo ticks = 608
+n = 200, k = 50, avg rank ticks = 49, avg alt rank ticks = 646, avg combo ticks = 135, avg alt combo ticks = 17676
+
+n = 125, k = 67, avg const ticks = 5065, avg combo ticks = 3, avg combo2 ticks = 5063, avg alt combo ticks = 574
+n = 125, k = 67, avg rank ticks = 64, avg alt rank ticks = 636, avg combo ticks = 156, avg alt combo ticks = 20884
+
+n = 150, k = 75, avg const ticks = 7087, avg combo ticks = 3, avg combo2 ticks = 7114, avg alt combo ticks = 578
+n = 150, k = 75, avg rank ticks = 13, avg alt rank ticks = 616, avg combo ticks = 9, avg alt combo ticks = 905
+
+n = 185, k = 40, avg const ticks = 5451, avg combo ticks = 3, avg combo2 ticks = 5364, avg alt combo ticks = 547
+n = 185, k = 40, avg rank ticks = 40, avg alt rank ticks = 622, avg combo ticks = 103, avg alt combo ticks = 10484
+
+n = 100000, k = 10, avg const ticks = 1515819, avg combo ticks = 5, avg combo2 ticks = 1485942, avg alt combo ticks = 994
+n = 100000, k = 10, avg rank ticks = 15, avg alt rank ticks = 1043, avg combo ticks = 209, avg alt combo ticks = 1913
+
+Overall Pascal's Triangle # of combos performance ratio = 245.26 to 1.
+Overall Pascal's Triangle GetRank performance ratio = 18.59 to 1.
+Overall Pascal's Triangle GetCombo performance ratio = 72.78 to 1.
+
+
+Press any key to exit.
